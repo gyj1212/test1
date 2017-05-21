@@ -8,7 +8,10 @@ public class kk2 {
     //add v4.0
     //add new
     //dev new add change
+    //v5.0.2 v5.0.2
 
     //修改bug 并发布版本 v3.0.1
     //NEW1
+    //v5.0.4
+    //开发新版本v6.0
 }
